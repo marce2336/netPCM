@@ -1,0 +1,60 @@
+
+# Description of procedure for data pre-processing and normalization:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+## 1). RAW DATA PRE-PROCESSING:
+
+### a). The data generated in-house is contained in separated files. The data was first checked and then merged into one single file. The files 	('raw_intensities_All.csv', and 'raw_intensities_All_original.txt') are located in the folder 'RawData' (..\KO_lines\DataNormalization\RawData). 
+
+### b). All the species detected were double-checked to remove duplicated entries. This was done because there were some compounds for which the presence of isomers was 	 	reported, but in reality the data of the intensities was duplicated. The lipids were: PC 36:3 (1)/PC 36:3 (2); and PC 36:5 (1)/PC 36:5 (2). 
+
+### c). There were lipid species for which no intensity was reported, hence it was assigned an intensity value of zero. These may be species that for some reason (low abundance, sensibility of equipment) were not detected in the analysis. For this case the zero values were deleted, leaving the cells empty, with the purpose to allow their identification by the MetaboAnalyst server as missing values.
+
+### d). The data curated in steps (b) and (c) was saved as ('raw_intensities_all_4_metaboAnalyst.csv'), and is located in the folder 'RawData' (..\KO_lines\DataNormalization\RawData).
+
+
+
+## 2). DATA PROCESSING: for the imputation of missing Values, the file created in (1d) was uploaded in the MetaboAnalyst server and two methods were used to fill the missing 	values:
+
+### a) MinValue method: Fill missing values by replacing by LoDs (1/5 of the minimum positive value of each variable) ('data_processed_minValue.csv')
+
+### b). PPCA (probabilistic PCA): The method is implemented according to publication from Stacklies et al. 2007 (https://doi.org/10.1093/bioinformatics/btm069). The file with 		the processed data was saved as: 'data_processed_PPCA.csv'
+
+
+
+## 3). DATA NORMALIZATION: for normalization two methods were used:
+
+### a). Normalization by median: for this the MetaboAnalyst server was used
+	
+	(i). The data processed using the MinValue method (2a) was normalized by median ('data_MinValue_normalized_median.csv')
+	(ii). The data processed using the PPCA method (2b) was normalized by median ('data_PPCA_normalized_median.csv')
+
+### b). Normalization to TIC: for this the custom script 'normData.r' was used
+
+	(i). The data processed using the MinValue method (2a) was normalized to TIC ('data_MinValue_normalized_TIC.txt')
+	(ii). The data processed using the PPCA method (2b) was normalized to TIC  ('data_PPCA_normalized_TIC.txt')
+
+### c). The results of the normalization were checked visualy by creating barplots. The R script ('BoxPlotsCode.R') and the .pdf plots are located in: '..\KO_lines\DataNormalization\NormalizationPlots'
+
+### d). The results of the normalization are stored in the folder 'Data_Normalized', located in the route: '..\KO_lines\DataNormalization\Data_Normalized'. 
+
+### e). The content of each of the files created in (d) was adjusted by adding the ID to each of the replicates of the KOs measured (i.e. KO-x). The adjusted data sets were 	saved into one single file named 'normalized_lipid_profiles.xlsx' 
+
+
+
+## 4). DATA ADJUSTMENT FOR STATISTICAL ANALYZES:
+
+### a). The data was processed with the script 'processProfiles4Statistics', located in the route '..\Characterization_KO_lines'. 
+
+### b). Names for several lipid classes were adjusted to match IDs from Plant Lipid Module (i.e. DAG, TAG, Lyso-PC, Lyso-MGDG). 
+
+### c). The IDs for the locus of the corresponding genes that were mutated were added to each set of replicates.
+
+### d). The species for which isomers were detected were merged into a single lipid pool. For this, the intensities for each set of isomers was added up.
+
+### e). The mutants that corresponded to genes not included in the Plant Lipid Module, and for which it was not possible to obtain a feasible flux distributions were eliminated from the analyzes.
+
+### f). The lipidomic data set included information for 22 sets of Col-0 plants, each with around 5-6 replicates. In order to facilitate further analyzes, it was assumed that all Col-0 samples corresponded to the control, thus the averages for each Col-0 set were calculated, therefore each average was regarded as a replicate, which left a total of 22 replicates.
+
+Note: The mutant AT4G04930 (Tube 33) has just two replicates available. They were averaged so the data could be uploaded in MetaboAnalyst

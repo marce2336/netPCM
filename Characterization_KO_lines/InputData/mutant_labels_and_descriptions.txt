@@ -1,0 +1,139 @@
+Tube number	Locus	Gene	Gene function 
+1	AT1G68000	PIS1	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
+2	AT5G23670	LCB2	Protein binding / serine C-palmitoyltransferase
+3	AT5G01220	SQD2	UDP-glycosyltransferase/ UDP-sulfoquinovose:DAG sulfoquinovosyltransferase/ transferase, transferring glycosyl groups
+4	AT4G30580	ATS2	1-acylglycerol-3-phosphate O-acyltransferase/ acyltransferase
+5	AT1G14290	SBH2	catalytic/ sphingosine hydroxylase
+6	AT3G55030	PGPS2	CDP-alcohol phosphatidyltransferase/ CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+7	AT3G13930	dihydrolipoamide S-acetyltransferase, putative	dihydrolipoamide S-acetyltransferase, putative
+8	AT1G14290	SBH2	catalytic/ sphingosine hydroxylase
+9	AT4G09760	choline kinase, putative	choline kinase, putative
+10	AT1G08510	FATB	 acyl carrier/ acyl-[acyl-carrier-protein] hydrolase
+11	AT5G01220	SQD2	UDP-glycosyltransferase/ UDP-sulfoquinovose:DAG sulfoquinovosyltransferase/ transferase, transferring glycosyl groups
+12	AT5G15530	BCCP2	biotin binding
+13	AT4G33030	SQD1	UDPsulfoquinovose synthase/ sulfotransferase
+14	AT4G23850	LACS4	long-chain-fatty-acid-CoA ligase / long-chain acyl-CoA synthetase
+15	AT3G18000	XPL1	 methyltransferase/ phosphoethanolamine N-methyltransferase
+16	AT1G34100	choline kinase	choline kinase
+17	AT5G16230 	S-ACP-DES3	acyl-(acyl-carrier-protein) desaturase, putative / stearoyl-ACP desaturase, putative
+18	AT5G16230 	S-ACP-DES3	acyl-(acyl-carrier-protein) desaturase, putative / stearoyl-ACP desaturase, putative
+19	AT2G43710	SSI2	acyl-[acyl-carrier-protein] desaturase/ stearoyl-CoA 9-desaturase
+20	AT2G39290	PGP1	CDP-alcohol phosphatidyltransferase/ CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+21	AT2G27090	N-terminal protein myristoylation	protein of unknown function involved in N-terminal protein myristoylation
+22	AT5G05580	FAD8	omega-3 fatty acid desaturase
+23	AT3G11170	FAD7	omega-3 fatty acid desaturase
+24	AT5G57190	PSD2	phosphatidylserine decarboxylase
+26	AT3G06060	TSC10A	short-chain dehydrogenase/reductase (SDR) family protein
+27	AT4G30950	FAD6	omega-6 fatty acid desaturase
+28	AT2G22230	S-ACP-DES2	Hydroxyacyl-ACP Dehydrase
+29	AT1G77590	LACS9	long-chain-fatty-acid-CoA ligase
+30	AT3G02610	S-ACP-DES2	acyl-[acyl-carrier-protein] desaturase/ oxidoreductase/ transition metal ion binding
+31	AT3G11430	GPAT5	1-acylglycerol-3-phosphate O-acyltransferase/ acyltransferase/ organic anion transmembrane transporter
+32	AT3G25585	AAPT2	phosphatidyltransferase/ phosphotransferase, for other substituted phosphate groups
+33	AT4G04930	DES-1-LIKE	oxidoreductase/ sphingolipid delta-4 desaturase
+34	AT1G68000	PIS	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
+35	AT1G36180	ACC2	acetyl-CoA carboxylase
+37	AT2G41540	GPDHC1	NAD or NADH binding / glycerol-3-phosphate dehydrogenase (NAD+)
+38	AT5G40610	GPDHP	glycerol-3-phosphate dehydrogenase (NAD+) / GPDH
+39	 AT1G61850	PAT-PLA-I	galactolipase/ phospholipase
+40	AT1G02660	T14P4_6	lipase class 3 family protein
+41	AT4G25970	PSD3	Phosphatidylserine Decarboxylase
+42	AT1G61850	PAT-PLA-I	galactolipase/ phospholipase
+45	AT3G25585	PT2	Diacylglycerol Cholinephosphotransferase
+46	AT1G71697	CK1	Choline Kinase
+49	AT5G57190	PSD2	phosphatidylserine decarboxylase
+50	AT2G29980	FAD3	omega-3 fatty acid desaturase
+51	AT1G01610	GPAT4	1-acylglycerol-3-phosphate O-acyltransferase/ acyltransferase
+52	AT2G37290,AT3G15850	FAD5-like	RabGAP/TBC domain-containing protein & 16:0 monogalactosyldiacylglycerol desaturase/ oxidoreductase
+53	AT4G29460	sPLA2 -gamma	phospholipase A2 gamma, secretory low molecular weight
+54	AT4G09760	 choline synthase, putative	encodes a choline synthase, putative
+55	AT4G37060	PAT-PLA-II?	Acyl-Hydrolase (Patatin-like), putative
+56	AT4G22340	CDS2	phosphatidate cytidylyltransferase, putative / CDP-diglyceride synthetase, putative
+59	AT1G63050	LPLAT2	membrane bound O-acyl transferase (MBOAT) family protein
+60	AT2G45670	LPEAT2	calcineurin B subunit-related
+61	AT1G12640	LPLAT1	membrane bound O-acyl transferase (MBOAT) family protein
+62	AT1G18710	MYB47	"(myb domain protein 47); DNA binding / transcription factor"
+63	AT1G18710	MYB47	"(myb domain protein 47); DNA binding / transcription factor"
+64	AT1G08810	MYB60	DNA binding / transcription factor
+66	AT3G47600	MYB94	DNA binding / transcription factor
+67	AT5G10160	thioesterase, putative	"Thioesterase superfamily protein; beta-hydroxyacyl-ACP dehydratase, putative"
+68	AT4G13050	thioesterase, putative	acyl-(acyl carrier protein) thioesterase, putative / acyl-ACP thioesterase, putative / oleoyl-(acyl-carrier protein) hydrolase, putative / S-acyl fatty acid synthase thioesterase, putative
+69	AT1G73600	NMT3	methyltransferase/ phosphoethanolamine N-methyltransferase
+70	AT1G49430	LACS2	long-chain-fatty-acid-CoA ligase
+71	AT2G06925	PLA2-alpha	secretory phospholipase A2 
+72	AT1G34430	EMB3003	Dihydrolipoamide Acetyltransferase, E2 component of Pyruvate Dehydrogenase Complex
+73	AT4G20870	FAH2	catalytic/ fatty acid ?-hydroxylase
+74	AT2G46210	SLD2	delta-8 sphingolipid desaturase, putative
+75	AT4G00550	DGD2	UDP-galactosyltransferase/ UDP-glycosyltransferase/ digalactosyldiacylglycerol synthase/ transferase, transferring glycosyl groups
+76	AT1G80950	LPEAT1	Phospholipid/glycerol acyltransferase family protein
+77	AT3G16950	LPD1	 dihydrolipoyl dehydrogenase
+78	AT4G11030	LACS5	long-chain-fatty-acid-CoA ligase, putative / long-chain acyl-CoA synthetase, putative
+79	AT2G32260	CCT1	cholinephosphate cytidylyltransferase, putative / phosphorylcholine transferase, putative / CTP:phosphocholine cytidylyltransferase, putative
+80	AT5G27200	ACP5	Acyl Carrier Protein
+81	AT5G23670	LCB2	protein binding / serine C-palmitoyltransferase
+83	AT4G30950	FAD6	 omega-6 fatty acid desaturase
+84	AT3G15850	FAD5	16:0 monogalactosyldiacylglycerol desaturase/ oxidoreductase
+85	AT3G05020	ACP1	Acyl Carrier Protein
+86	AT5G46290	KAS1	 catalytic/ fatty-acid synthase/ transferase, transferring acyl groups other than amino-acyl groups
+87	AT1G06520	GPAT1	1-acylglycerol-3-phosphate O-acyltransferase/ acyltransferase
+88	AT4G14070	AAE15	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+89	AT1G74960	FAB1	3-oxoacyl-[acyl-carrier-protein] synthase/ fatty-acid synthase
+90	AT2G32260	CCT1	cholinephosphate cytidylyltransferase, putative / phosphorylcholine transferase, putative / CTP:phosphocholine cytidylyltransferase, putative
+92	AT5G27200	ACP5	acyl carrier
+93	AT3G18220	LPP4	phosphatidic acid phosphatase family protein / PAP2 family protein
+94	AT4G16155	LPD2	dihydrolipoyl dehydrogenase
+95	AT3G11470	Holo-ACP Synthase	Holo-ACP Synthase
+96	AT3G48780	SPT1	serine C-palmitoyltransferase
+97	AT1G74320	choline kinase, putative	choline kinase, putative
+98	AT1G12640	LPLAT1	lysophoshpholipid acyltransferase
+99	AT1G74430	MYB95	"(myb domain protein 95); DNA binding / transcription factor"
+101	AT3G02610	S-ACP-DES2	"Plant stearoyl-acyl-carrier-protein desaturase family protein; acyl-[acyl-carrier-protein] desaturase/ oxidoreductase/ transition metal ion binding"
+102	AT3G18850	LPAT5	"LPAT5; acyltransferase"
+104	AT5G16240	S-ACP-DES1	acyl-(acyl-carrier-protein) desaturase, putative / stearoyl-ACP desaturase, putative
+105	AT3G61250	MYB17	DNA binding / transcription factor
+106	AT4G23850	LACS4	long-chain-fatty-acid-CoA ligase / long-chain acyl-CoA synthetase
+108	AT2G45150	CDS4	CONTAINS InterPro DOMAIN/s: Phosphatidate cytidylyltransferase (InterPro:IPR000374)
+109	AT1G77590	LACS9	long-chain-fatty-acid-CoA ligase
+110	AT1G74960	KAS2	3-oxoacyl-[acyl-carrier-protein] synthase/ fatty-acid synthase
+111	AT5G58560	FOLK	phosphatidate cytidylyltransferase family protein
+112	AT5G40610	GPDHP	glycerol-3-phosphate dehydrogenase (NAD+) / GPDH
+113	AT5G19200	TSC10B	short-chain dehydrogenase/reductase (SDR) family protein
+114	AT1G11870	SRS	 serine-tRNA ligase
+115	AT5G27200	ACP5	acyl carrier
+116	AT5G08410	FTRA2	 catalytic/ ferredoxin reductase/ ferredoxin:thioredoxin reductase/ lipoate synthase
+117	AT5G51310	 oxidoreductase, putative	binding / catalytic/ oxidoreductase
+119	AT4G15130	CCT2	NA
+120	AT2G34590	E1beta2	Transketolase family protein
+121	AT3G02620	S-ACP-DES4	Plant stearoyl-acyl-carrier-protein desaturase family protein
+123	AT3G11670	DGD1	NA
+126	AT3G23790	AAE16	AMP-binding protein, putative
+127	AT4G15130	CCT2	catalytic/ choline-phosphate cytidylyltransferase/ nucleotidyltransferase
+128	AT1G30120	PDH-E1 BETA	NA
+131	AT1G54630	ACP3	NA
+132	AT3G02610	S-ACP-DES2	stearoyl-acyl-carrier-protein desaturase family protein
+133	AT3G18000	NMT1	methyltransferase/ phosphoethanolamine N-methyltransferase
+134	AT5G15530	BCCP2	NA
+136	AT4G27030	FAD4	NA
+137	AT4G16155	LPD2	dihydrolipoyl dehydrogenases
+139	AT3G13930	SAHH2	dihydrolipoamide S-acetyltransferase, putative
+142	AT4G27030 	FAD4	NA
+143	AT2G38040	CAC3	NA
+144	AT1G13210	ACA.l	"phospholipid translocating ATPase;  coupled to transmembrane movement of ions"
+146	AT3G07690	G3Pdh-2	"6-phosphogluconate dehydrogenase family protein; NAD or NADH binding / binding / catalytic/ coenzyme binding / glycerol-3-phosphate dehydrogenase (NAD+)/ oxidoreductase/ oxidoreductase, acting on CH-OH group of donors / oxidoreductase, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+147	AT3G05630	PDLZ2	NA
+148	AT3G47600 	MYB94	DNA binding / transcription factor
+149	AT3G18850	LPAT5	acyltransferase
+150	AT3G48780	SPT1	NA
+153	AT3G01140	MYB106	DNA binding / transcription factor
+154	AT2G46210	SLD2	"delta-8 sphingolipid desaturase; putative"
+155	AT3G55310	Ketoacyl-ACP Reductase	"NAD(P)-binding Rossmann-fold superfamily protein; gibberellin 20-oxidase-related"
+156	AT4G14070	AAE15	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+157	AT1G73600	NMT3	"S-adenosyl-L-methionine-dependent methyltransferases superfamily protein; methyltransferase/ phosphoethanolamine N-methyltransferase"
+159	AT5G58560	FOLK	phosphatidate cytidylyltransferase family protein
+160	AT3G61250	MYB17	"DNA binding / transcription factor; Member of the R2R3 factor gene family"
+161	AT3G55290	NAD(P)-binding protein	NAD(P)-binding Rossmann-fold superfamily protein
+162	AT1G77590	LACS9	long-chain-fatty-acid-CoA ligase
+163	AT2G22230	3-hydroxyacyl-ACP dehydratase	"Thioesterase superfamily protein; beta-hydroxyacyl-ACP dehydratase, putative"
+165	AT1G74650	MYB31	NA
+166	AT5G06090	GPAT7	NA
+167	AT4G29350	PFN2	NA
